@@ -8,5 +8,4 @@ tqdm >= 4.64.1
 pandas >= 1.5.3
 pytorchcv >= 0.0.67
 sentence_transformers >= 2.2.2
-jupyter
-notebook
+
